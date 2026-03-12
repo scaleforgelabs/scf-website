@@ -1,11 +1,19 @@
 @import "tailwindcss";
+body {
+  font-family: var(--font-clash);
+}
 
 :root {
   --background: #070831;
   --foreground: #171717;
+  
 }
 .brown-gradient {
   background: linear-gradient(180deg, #F26B2E 0%, #8C3E1B 100%);
+}
+.blue-gradient {
+  background: linear-gradient(0deg, #060737 0%, #11149D 100%);
+
 }
 
 @theme inline {
