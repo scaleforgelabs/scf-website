@@ -10,7 +10,15 @@ import glowRing from "@/public/images/glow-ring.svg"
 import rings from "@/public/images/rings.svg"
 import footerbg from "@/public/images/footer-bg.png"
 import compoundLogo from "@/public/images/compound-logo.svg"
-
+import upshot from "@/public/images/upshot.png"
+import illustration from "@/public/images/illustration.svg"
+import scfOrange from "@/public/images/scf-orange.svg"
+import imagePlate from "@/public/images/image-plate.svg"
+import imageBorder from "@/public/images/image-border.svg"
+import people from "@/public/images/peeps.png"
+import scfLogo from "@/public/images/scf_logo.svg"
+import scfOrangePrimary from "@/public/images/scf-orange-primary.svg"
+import cohiWhite from "@/public/images/cohi-white.svg"
 
 export const Images = {
     imageBg,
@@ -24,5 +32,14 @@ export const Images = {
     glowRing,
     rings,
     footerbg,
-    compoundLogo
+    compoundLogo,
+    upshot,
+    illustration,
+    scfOrange,
+    imagePlate,
+    imageBorder,
+    people,
+    scfLogo,
+    scfOrangePrimary,
+    cohiWhite
 }

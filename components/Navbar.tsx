@@ -19,7 +19,7 @@ export const Navbar = () => {
 
                 {/* Center: Desktop Navigation */}
                 <div className="hidden lg:flex absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 items-center gap-8 bg-white/5 border border-white/10 backdrop-blur-md px-8 py-6 rounded-md shadow-lg">
-                    <Link href="#about" className="text-sm font-medium text-white/90 hover:text-white transition-colors">About us</Link>
+                    <Link href="about" className="text-sm font-medium text-white/90 hover:text-white transition-colors">About us</Link>
                     <Link href="#speakers" className="text-sm font-medium text-white/90 hover:text-white transition-colors">Speakers</Link>
                     <Link href="#gallery" className="text-sm font-medium text-white/90 hover:text-white transition-colors">Gallery</Link>
                     <Link href="#shop" className="text-sm font-medium text-white/90 hover:text-white transition-colors">Shop</Link>
