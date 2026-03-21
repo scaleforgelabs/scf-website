@@ -2,14 +2,23 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Images } from "@/public/index";
 
 export const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
+    const [isScrolled, setIsScrolled] = useState(false);
+
+    useEffect(() => {
+        const handleScroll = () => {
+            setIsScrolled(window.scrollY > 20);
+        };
+        window.addEventListener("scroll", handleScroll);
+        return () => window.removeEventListener("scroll", handleScroll);
+    }, []);
 
     return (
-        <nav className="fixed top-5 left-0 right-0 z-50 px-6 py-4">
+        <nav className={`fixed top-0 left-0 right-0 z-50 px-6 py-4 transition-all duration-300 ${isScrolled ? "bg-[#0B0A1F]/80 backdrop-blur-lg shadow-lg" : "bg-transparent mt-5"}`}>
             <div className="max-w-7xl mx-auto flex items-center justify-between">
 
                 {/* Left Side: Logos */}
@@ -20,8 +29,8 @@ export const Navbar = () => {
                 {/* Center: Desktop Navigation */}
                 <div className="hidden lg:flex absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 items-center gap-8 bg-white/5 border border-white/10 backdrop-blur-md px-8 py-6 rounded-md shadow-lg">
                     <Link href="about" className="text-sm font-medium text-white/90 hover:text-white transition-colors">About us</Link>
-                    <Link href="#speakers" className="text-sm font-medium text-white/90 hover:text-white transition-colors">Speakers</Link>
-                    <Link href="#gallery" className="text-sm font-medium text-white/90 hover:text-white transition-colors">Gallery</Link>
+                    <Link href="speakers" className="text-sm font-medium text-white/90 hover:text-white transition-colors">Speakers</Link>
+                    <Link href="gallery" className="text-sm font-medium text-white/90 hover:text-white transition-colors">Gallery</Link>
                     <Link href="#shop" className="text-sm font-medium text-white/90 hover:text-white transition-colors">Shop</Link>
                 </div>
 
