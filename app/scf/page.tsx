@@ -6,16 +6,16 @@ import { SpeakersSection } from "@/components/SpeakersSection";
 import { SponsorsSection } from "@/components/SponsorsSection";
 import { MomentsSection } from "@/components/MomentsSection";
 
-export default function Home() {
-  return (
-    <div className="relative min-h-screen w-full flex flex-col font-sans">
-      <HeroSection />
-      <ThemeSection />
-      <AboutSection />
-      <StatsSection />
-      <SpeakersSection />
-      <SponsorsSection />
-      <MomentsSection />
-    </div>
-  );
+export default function SCFPage() {
+    return (
+        <div className="relative min-h-screen w-full flex flex-col font-sans">
+            <HeroSection />
+            <ThemeSection />
+            <AboutSection />
+            <StatsSection />
+            <SpeakersSection />
+            <SponsorsSection />
+            <MomentsSection />
+        </div>
+    );
 }
