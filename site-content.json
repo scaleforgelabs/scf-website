@@ -1,0 +1,370 @@
+{
+  "site": {
+    "name": "Council of Higher Institutions (COHI)",
+    "tagline": "An Organ of Muslim Students' Society of Nigeria Lagos State Area Unit",
+    "logo": "https://mssnlagos.net/templates/gk_game/images/style4/logo.png",
+    "url": "https://cohi.mssnlagos.net"
+  },
+  "navigation": [
+    { "label": "HOME", "href": "/" },
+    { "label": "ABOUT US", "href": "/about.html" },
+    { "label": "OUR AFFILIATES", "href": "/affliates.html" },
+    { "label": "PROGRAMS", "href": "/programs.html" },
+    { "label": "GALLERY", "href": "/gallery.html" },
+    { "label": "OUR MAGAZINE", "href": "https://drive.google.com/drive/u/1/folders/1nY81Dhs1eSXrpkTrhO1vvkZY58mQRyJ4" }
+  ],
+  "contact": {
+    "address": "4th floor, 161 Herbert Macauley Road, Ebute-Metta, Yaba, Lagos.",
+    "phone": "+2349096562317",
+    "email": "cohi@mssnlagos.net",
+    "social": {
+      "facebook": "https://facebook.com/lagoscohi",
+      "twitter": "https://twitter.com/lagoscohi",
+      "instagram": "http://instagram.com/lagoscohi"
+    }
+  },
+  "pages": {
+    "home": {
+      "hero": {
+        "heading": "We are a community of Muslim Students' Societies Across 21 Higher Institutions in Lagos"
+      },
+      "about_cohi": {
+        "heading": "About COHI",
+        "subheading": "Over 2 decades of unifying all Muslims students on various campuses across Lagos State.",
+        "body": "The Council of Higher Institutions (COHI) is an organ of Muslim Students' Society of Nigeria, Lagos State Area Unit. Its utmost goal is the unification of all Muslim students on various campuses across Lagos State. Our core values are academic excellence, students' welfare, moral rectitude, and spiritual uplift. For over two decades of existence, COHI have been at the forefront of bringing together Muslims in various campuses, maintaining the core values of Islam without compromise despite the overwhelming influence of divergent civilization on students."
+      },
+      "mission_statement": {
+        "heading": "MISSION STATEMENT",
+        "subheading": "Established in 1954. The largest Network of Muslim Youths in Lagos State",
+        "body": "The society, Muslim Students' Society of Nigeria, is the meeting point for all Muslim Students in all Higher Institutions, Secondary Schools in most part (if not all), graduate and Post Graduates as well as Muslims who attend technical institution, like the craftsmen and women in Nigeria. Frankly speaking, this society has one of the largest spread of society in (religious or otherwise) in the whole of Nigeria. The major objective is that it may be the forum for making every Muslim youth that is privileged to attend any school in the country, secondary or tertiary, to be conscious about Islam and being its ambassadors."
+      },
+      "upcoming_event": {
+        "title": "Student Career Fair",
+        "hashtag": "#SCF",
+        "register_url": "https://www.eventbrite.com/e/student-career-fair-tickets-628820778877"
+      },
+      "coordinator_message": {
+        "from": "Odusanya Abdulhafeez",
+        "message": "Praises and gratitude is due to Allah, the Lord of the world. May his endless mercies be upon the seat of all prophets; prophet Muhammad (SAW), his household, companions and those who the path of grinded. It is my pleasure to welcome you the website of the council of higher institution, where you stay more connected to the organ's activities and get latest information of activities across our affiliate institutions. Council of Higher Institution (COHI) is an organ of MSSN LSAU which is charge with the responsibility of coordinating the activities of all tertiary institutions across the state. The organ has over 23 affiliate institutions, universities, Polytechnics, Monotechnics, Colleges of Education, Colleges of Medicines and colleges of health technology. We are concerned with student development, welfarism and means of strengthening the bond of brotherhood among members; we therefore provide frequent platforms to achieve the aims and objectives through various programmes and activites. The programmes are campus interactive, capacity binding course, student career fans, Higher Institution Convention of Muslims Student and to mention but a few which of all the programmes. The gist could be gotten in the programme Box of this website. The administration focuses on the inclusiveness and rejuvenation which is aimed at working together with everyone in actualizing the goal of the organ and also bringing back the organ into limelight. With couple of achievement and testimony overtime from our world class members, having helped them in actualizing their goals, potentials and expanding their network. We hope you stayed glued to this website to have first hand information and have the course to also make your own testimony too. I ask Allah (SWT) to continue strengthening us, guide us, overlook our shortcomings and reward us with Al-Jannah."
+      }
+    },
+    "about": {
+      "title": "About COHI - MSSNLagos",
+      "heading": "COUNCIL OF HIGHER INSTITUTIONS",
+      "subheading": "An Organ of MSSN Lagos State Area Unit",
+      "about": {
+        "heading": "About COHI",
+        "body": "The Council of Higher Institutions (COHI) is an organ of Muslim Students' Society of Nigeria, Lagos State Area Unit. Its utmost goal is the unification of all Muslim students on various campuses across Lagos State. Our core values are academic excellence, students' welfare, moral rectitude, and spiritual uplift. For over two decades of existence, COHI have been at the forefront of bringing together Muslims in various campuses, maintaining the core values of Islam without compromise despite the overwhelming influence of divergent civilization on students."
+      },
+      "mission": {
+        "heading": "Mission Statement",
+        "body": "The emergence of the Council of Higher Institutions [COHI] was as a result of the large communication gap that existed within the higher institution circle and their inability to exist as a single functional unit. The need for a virile avenue where Muslims in this institutions will come together to address common challenges and proffer solutions to such was felt and steps were taken to remedy the situation. COHI thus emerged to represent the united voice of Muslim students in our institutions, championing their rights and earning them a consideration with policy making bodies of the schools."
+      },
+      "executive_cabinet": {
+        "heading": "COHI Executive Cabinet",
+        "subheading": "The Inclusiveness and Dynamism team",
+        "members": [
+          {
+            "role": "Coordinator",
+            "name": "Odusanya Abdulhafeez",
+            "school": "Lagos State University",
+            "department": "Education Management",
+            "level": "200L",
+            "image": "assets/imgs/team/coordinator.jpeg"
+          },
+          {
+            "role": "Secretary General",
+            "name": "Abdulraheem Sodiq Abiola",
+            "school": "Yaba College of Technology",
+            "level": "ND3",
+            "image": "assets/imgs/team/secretary_general.jpeg"
+          },
+          {
+            "role": "Public Relations Officer",
+            "name": "Salimon Toheeb",
+            "school": "Lagos State University",
+            "department": "Electronics and Computer Engineering",
+            "level": "500L",
+            "image": "assets/imgs/team/PRO.jpeg"
+          },
+          {
+            "role": "Financial Secretary",
+            "name": "Bakare Yusuf Olatunji",
+            "school": "FCE(T) Akoka",
+            "department": "Business Education",
+            "image": "assets/imgs/team/fin_sec.jpeg"
+          },
+          {
+            "role": "Welfare (Male)",
+            "name": "Mustapha Muhammad Jamiu",
+            "school": "University of Lagos",
+            "department": "Islamic Studies Education",
+            "image": "assets/imgs/team/welfare.jpeg"
+          },
+          {
+            "role": "Editor",
+            "name": "Fawole Fuad Ayomide",
+            "school": "AOCOED",
+            "department": "English/Political Science Education",
+            "level": "200 Level",
+            "image": "assets/imgs/team/editor.jpeg"
+          },
+          {
+            "role": "Female Coordinator",
+            "name": "Ahmad Aminah Abike",
+            "school": "Lagos State University",
+            "department": "Biochemistry",
+            "level": "400L",
+            "image": "assets/imgs/team/Female_Coordinator.jpeg"
+          },
+          {
+            "role": "Deputy Female Coordinator",
+            "name": "Zaynab Gaji",
+            "school": "LASUCOM",
+            "department": "Medicine and Surgery",
+            "image": "assets/imgs/team/deputy_female_coordinator.jpeg"
+          },
+          {
+            "role": "Female Secretary",
+            "name": "Abdulazeez Wasilah",
+            "school": "Yabatech",
+            "department": "Statistics",
+            "image": "assets/imgs/team/Sister_Secretary.jpeg"
+          },
+          {
+            "role": "Treasurer",
+            "name": "Abdullateef Khadijah Folashade",
+            "school": "Ansar-ud-deen College of Education Isolo",
+            "department": "Math/Eco",
+            "image": "assets/imgs/team/treasurer.jpeg"
+          },
+          {
+            "role": "Female PRO",
+            "name": null,
+            "school": "FCET Akoka",
+            "department": "Integrated Science Biology",
+            "level": "300 Level",
+            "image": "assets/imgs/team/PRO_female.jpeg"
+          },
+          {
+            "role": "Welfare Officer",
+            "name": "Olashege Hussainat Oluwatimilehin",
+            "school": "LASPOTECH IKORODU",
+            "department": "Science Laboratory Technology (SLT)",
+            "image": "assets/imgs/team/welfare_sister.jpeg"
+          }
+        ]
+      }
+    },
+    "affiliates": {
+      "title": "COHI Affiliates - MSSNLagos",
+      "summary": "2 Universities, 2 Colleges of Medicine, 6 Polytechnics, 4 Colleges of Education, and 7 Other Colleges and Institutes.",
+      "categories": {
+        "universities": [
+          {
+            "name": "University of Lagos",
+            "abbreviation": "UNILAG",
+            "image": "assets/imgs/affiliate-img/unilag.png",
+            "url": "/contents/unilag.html"
+          },
+          {
+            "name": "Lagos State University, Epe Campus",
+            "abbreviation": "LASU",
+            "image": "assets/imgs/affiliate-img/lasu.png",
+            "url": "http://lasu.edu.ng/"
+          }
+        ],
+        "colleges_of_medicine": [
+          {
+            "name": "Lagos University College of Medicine",
+            "abbreviation": "LASUCOM",
+            "image": "assets/imgs/affiliate-img/lasucom.png",
+            "url": "https://lasucom.edu.ng"
+          },
+          {
+            "name": "College of Medicine University of Lagos",
+            "abbreviation": "CMUL",
+            "image": "assets/imgs/affiliate-img/cmul.png",
+            "url": "http://cmul.unilag.edu.ng/"
+          }
+        ],
+        "polytechnics": [
+          {
+            "name": "Yaba College of Technology",
+            "abbreviation": "Yabatech",
+            "image": "assets/imgs/affiliate-img/Yabatech.png",
+            "url": "/contents/yabatech.html"
+          },
+          {
+            "name": "Lagos State Polytechnic, Isolo",
+            "abbreviation": "LASPOTECH",
+            "image": "assets/imgs/affiliate-img/laspotech.png",
+            "url": "https://www.mylaspotech.edu.ng/"
+          },
+          {
+            "name": "Lagos State Polytechnic, Ikorodu",
+            "abbreviation": "LASPOTECH",
+            "image": "assets/imgs/affiliate-img/laspotech-1.png",
+            "url": "https://www.mylaspotech.edu.ng/"
+          },
+          {
+            "name": "Lagos State Polytechnic, Ikeja",
+            "abbreviation": "LASPOTECH",
+            "image": "assets/imgs/affiliate-img/laspotech-2.png",
+            "url": "https://www.mylaspotech.edu.ng/"
+          },
+          {
+            "name": "Lagos City Polytechnic",
+            "abbreviation": "lagoscity",
+            "image": "assets/imgs/affiliate-img/lagoscity.png",
+            "url": "https://lagoscitypolytechnic.edu.ng/"
+          },
+          {
+            "name": "Grace Polytechnic",
+            "abbreviation": "GracePoly",
+            "image": "assets/imgs/affiliate-img/grace.png",
+            "url": "https://gracepolytechnic.com/"
+          }
+        ],
+        "colleges_of_education": [
+          {
+            "name": "Federal College of Education (Technical), Akoka",
+            "abbreviation": "FCET",
+            "image": "assets/imgs/affiliate-img/FCET.png",
+            "url": null
+          },
+          {
+            "name": "Adeniran Ogunsanya College Of Education",
+            "abbreviation": "AOCED",
+            "image": "assets/imgs/affiliate-img/aocoed.png",
+            "url": "http://aocoed.edu.ng"
+          },
+          {
+            "name": "Michael Otedola College Of Primary Education",
+            "abbreviation": "MOCPED",
+            "image": "assets/imgs/affiliate-img/mocped.png",
+            "url": "http://mocped.edu.ng"
+          },
+          {
+            "name": "St Augustine's College Of Education",
+            "abbreviation": "SACOED",
+            "image": "assets/imgs/affiliate-img/sacoed.png",
+            "url": "http://sacoed.edu.ng"
+          }
+        ],
+        "colleges_and_institutes": [
+          {
+            "name": "Federal College Of Fisheries",
+            "abbreviation": "FCFMT",
+            "image": "assets/imgs/affiliate-img/oceonography.png",
+            "url": null
+          },
+          {
+            "name": "Federal College Of Orthopedic Technology, Igbobi",
+            "abbreviation": "FECOT",
+            "image": "assets/imgs/affiliate-img/fecot.png",
+            "url": null
+          },
+          {
+            "name": "Lagos State College of Health Technology",
+            "abbreviation": "LASCOHET",
+            "image": "assets/imgs/affiliate-img/LASCOHET.png",
+            "url": "http://lascohet.com"
+          },
+          {
+            "name": "Nigerian Army College Of Nursing",
+            "abbreviation": "NACON",
+            "image": "assets/imgs/affiliate-img/NAHCON.png",
+            "url": null
+          },
+          {
+            "name": "Federal School Of Occupational Therapy",
+            "abbreviation": "FSOT",
+            "image": "assets/imgs/affiliate-img/fsot.png",
+            "url": null
+          },
+          {
+            "name": "Nigerian Institute of Journalism",
+            "abbreviation": "NIJ",
+            "image": "assets/imgs/affiliate-img/nij.png",
+            "url": "http://nij.edu.ng"
+          },
+          {
+            "name": "Nigeria Law School",
+            "abbreviation": "NLS",
+            "image": "assets/imgs/affiliate-img/law.png",
+            "url": "http://www.lawschoollagos.org/"
+          }
+        ]
+      }
+    },
+    "programs": {
+      "title": "Programs - MSSNLagos",
+      "heading": "Our Programmes",
+      "items": [
+        {
+          "name": "COHI Championship",
+          "description": "The upcoming championship starts on 16th October, 2021. It consist of group stage, quarter final, semi-final and final. You are to register 15 players and 5 management for the team. Other guidelines, rules and regulations are included in the letter sent to you.",
+          "register_url": "https://forms.gle/h1WeHZa6xEmBKiAh9"
+        },
+        {
+          "name": "Higher Institutions Convention of Muslim Students",
+          "description": "An assembly of Muslim students staged for the purpose of bringing new ideas on how to improve schools' Islamic activities. It also serve as a reportorial platform for the COHI officers which is followed by election of new officers for the next administrative year.",
+          "register_url": null
+        },
+        {
+          "name": "Campus Interactive Forum",
+          "description": "This is a platform where students of higher institutions come together to solve general problem faced by the institutions as regards the Islamic works.",
+          "register_url": null
+        },
+        {
+          "name": "Capacity Building Course",
+          "description": "An empowerment and enlightening event to equip students with intellectual tools required in the modern labour market.",
+          "register_url": "https://forms.gle/WX7RaDdWu3QUvsTLA"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Gallery - MSSNLagos",
+      "images": [
+        "assets/imgs/gallery/pic1.jpg",
+        "assets/imgs/gallery/pic2.jpg",
+        "assets/imgs/gallery/pic3.jpg",
+        "assets/imgs/gallery/pic4.jpg",
+        "assets/imgs/gallery/pic5.jpg",
+        "assets/imgs/gallery/pic6.jpg",
+        "assets/imgs/gallery/pic7.jpg",
+        "assets/imgs/gallery/pic8.jpg",
+        "assets/imgs/gallery/pic9.jpg",
+        "assets/imgs/gallery/pic10.jpg",
+        "assets/imgs/gallery/pic11.jpg",
+        "assets/imgs/gallery/pic12.jpg",
+        "assets/imgs/gallery/pic13.jpg",
+        "assets/imgs/gallery/pic14.jpg",
+        "assets/imgs/gallery/pic15.jpg",
+        "assets/imgs/gallery/pic16.jpg",
+        "assets/imgs/gallery/pic17.jpg",
+        "assets/imgs/gallery/pic18.jpeg",
+        "assets/imgs/gallery/pic19.jpeg",
+        "assets/imgs/gallery/pic20.jpeg",
+        "assets/imgs/gallery/pic21.jpeg",
+        "assets/imgs/gallery/pic22.jpeg",
+        "assets/imgs/gallery/pic23.jpeg",
+        "assets/imgs/gallery/pic24.jpeg",
+        "assets/imgs/gallery/pic25.jpeg",
+        "assets/imgs/gallery/pic28.jpeg",
+        "assets/imgs/gallery/pic29.jpeg",
+        "assets/imgs/gallery/pic30.jpeg",
+        "assets/imgs/gallery/pic31.jpeg",
+        "assets/imgs/gallery/pic32.jpeg",
+        "assets/imgs/gallery/pic33.jpeg",
+        "assets/imgs/gallery/pic34.jpeg"
+      ]
+    },
+    "404": {
+      "heading": "404",
+      "message": "Subhanallah!! Page not found :(",
+      "subtext": "The requested page could not be found."
+    }
+  }
+}
