@@ -19,7 +19,15 @@ import people from "@/public/images/peeps.png"
 import scfLogo from "@/public/images/scf_logo.svg"
 import scfOrangePrimary from "@/public/images/scf-orange-primary.svg"
 import cohiWhite from "@/public/images/cohi-white.svg"
-
+import image1 from "@/public/images/image1.png"
+import image2 from "@/public/images/image2.png"
+import image3 from "@/public/images/image3.png"
+import image4 from "@/public/images/image4.png"
+import image5 from "@/public/images/image5.png"
+import image6 from "@/public/images/image6.png"
+import image7 from "@/public/images/image7.png"
+import image8 from "@/public/images/image8.png"
+import image9 from "@/public/images/image9.png"
 export const Images = {
     imageBg,
     logo,
@@ -41,5 +49,14 @@ export const Images = {
     people,
     scfLogo,
     scfOrangePrimary,
-    cohiWhite
+    cohiWhite,
+    image1,
+    image2,
+    image3,
+    image4,
+    image5,
+    image6,
+    image7,
+    image8,
+    image9,
 }
